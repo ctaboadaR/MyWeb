@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\taboa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\taboa\\.nuget\\packages"
+    ]
+  }
+}
