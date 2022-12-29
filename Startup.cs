@@ -25,6 +25,7 @@ namespace MyDotnet
         {
             services.AddControllersWithViews();
             //comentario CT
+            //Nuevo comentario
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
